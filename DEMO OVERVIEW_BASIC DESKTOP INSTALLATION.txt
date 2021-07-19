@@ -1,11 +1,11 @@
-What is Power BI?
 
+power BI IS THE 
 It is a business analytics service that delivers insights for fast and informed decisions.
 
 Note: Not a tool / technology / component or any...
 
 In which year it was introduced?
-2013 July
+2013 July [ANNOUNCEMENT YEAR ]
 
 What is the current version of Power BI?
 
